@@ -168,6 +168,6 @@ Unless otherwise specified, this project uses the MIT License. Refer to the LICE
 For questions or feedback, reach out via:
 
 - GitHub Issues: https://github.com/SarthakRathi/Youtube-Bot/issues
-- Email: sarthakrathi89@gmail.com
+- Email: pallavikanawade850@gmail.com
 
 We appreciate bug reports, feature requests, and general suggestions!
